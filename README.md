@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Souvik 👋  
+Python Backend Developer from India 🇮🇳
 
-<!--
-**Souvik-Dev-127/Souvik-Dev-127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building backend systems, APIs, and small real-world projects.  
+Currently sharpening my fundamentals and DSA with Python.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python  
+- Django, Flask, FastAPI  
+- SQL (SQLite, MySQL)  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- Building Flask & Django mini-projects  
+- Practicing DSA (logic building)  
+- Learning REST API best practices  
+
+### 📌 Featured Projects
+- Flask mini apps (CRUD, APIs)  
+- Django projects (auth, basic apps)  
+
+### 🎯 Goals (2026)
+- Become job-ready as a Python Backend Developer  
+- Contribute to open-source  
+- Build 3–5 solid backend projects  
+
+### 📫 Reach Me
+- Email: souviktiwari12376@gmail.com
