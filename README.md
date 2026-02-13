@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## Hi, I'm Souvik 👋  <br>Python Backend Developer from India 🇮🇳<br><br>I enjoy building backend systems, APIs, and small real-world projects.  <br>Currently sharpening my fundamentals and DSA with Python.<br><br>🔧 Tech Stack<br>- Python  <br>- Django, Flask, FastAPI  <br>- SQL (SQLite, MySQL)  <br>- Git & GitHub  <br><br> 🚀 What I’m Working On<br>- Building Flask & Django mini-projects  <br>- Practicing DSA (logic building)  <br>- Learning REST API best practices  <br><br>#📌 Featured Projects<br>- Flask mini apps (CRUD, APIs)  <br>- Django projects (auth, basic apps)  <br><br> 🎯 Goals (2026)<br>- Become job-ready as a Python Backend Developer  <br>- Contribute to open-source  <br>- Build 3–5 solid backend projects  <br><br>📫 Reach Me<br>- Email: souviktiwari12376@gmail.com<br>
 
+🌐 Portfolio: https://souvik-portfolio-127.netlify.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Souvik_12.7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theanimeverse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souviktiwari12376@gmail.com) 
